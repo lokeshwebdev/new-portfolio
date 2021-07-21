@@ -1,0 +1,12 @@
+html {
+    scroll-behavior: smooth;
+  }
+.ws-grey {
+    background-color: #E7E9EB!important;
+    color: black!important;
+}
+.bg-light-blue {
+    background-color: #aaaaaa!important;
+    color: black!important;
+}
+.p-5{padding: 0px 100;}
